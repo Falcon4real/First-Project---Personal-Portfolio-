@@ -1,0 +1,256 @@
+body {
+  max-width: 100%;
+}
+
+p {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.Des {
+  display: block;
+  margin-top: 40px;
+  border-radius: 50%;
+  width: 300px;
+  margin-right: 50px;
+}
+
+/* NAVBAR */
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 20px;
+  align-items: center;
+  height: 40px;
+}
+
+.left {
+  color: black;
+  height: 20px;
+  font-weight: bold;
+  font-size: 35px;
+  margin-top: 60px;
+}
+
+.left:hover {
+  opacity: 0.5;
+  color: rgb(0, 128, 0);
+}
+
+.right a {
+  color: black;
+  font-size: 16px;
+  font-weight: 250px;
+  padding: 5px;
+  margin: 4px;
+  text-decoration: none;
+}
+
+.right a:hover {
+  opacity: 0.3;
+}
+
+.linkedin:hover {
+  color: blue;
+}
+
+/*SECTION 1: Hero */
+
+.hero-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+hero-section .statement {
+  flex: 5;
+}
+
+hero-section .headphoto {
+  flex: 2;
+}
+
+.statement h2 {
+  font-size: 30px;
+  margin-top: 110px;
+  margin-left: 20px;
+}
+
+.P1 {
+  margin-left: 20px;
+  font-size: 22px;
+  width: 900px;
+}
+
+.P11 {
+  margin-left: 20px;
+  font-size: 22px;
+   width: 900px;
+}
+
+.links a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 7px;
+  margin-left: 18px;
+  border-color: blue;
+  color: blue;
+  border: solid;
+  border-radius: 7px;
+  margin-top: 20px;
+}
+
+.links a:hover {
+  color: darkgrey;
+  border: solid;
+  opacity: 0.8;
+  transition: 0.1s;
+}
+
+/* SECTION 2: Skills */
+
+.skills-section {
+  margin-top: 50px;
+  margin: 80px;
+}
+
+.skills-section h2 {
+  text-align: center;
+  font-size: 25px;
+}
+
+.skills-section.cells {
+  display: inline-block;
+}
+
+.skills-section .cells .cell {
+  display: flex;
+  align-items: center;
+  font-size: 40px;
+  justify-content: space-between;
+  margin-top: 10px;
+  padding: 5px 100px;
+}
+
+.skills-section .text {
+  text-align: center;
+  font-size: 22px;
+  font-family:'Times New Roman', Times, serif;
+  margin-bottom: 30px;
+}
+
+.skills-section .cells {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+/* SECTION 3: Certifications */
+.certification-section {
+  margin-top: 50px;
+  margin: 80px;
+}
+
+.certification-section h2 {
+  text-align: center;
+  font-size: 25px;
+  font-family:'Times New Roman', Times, serif;
+  margin-bottom: 30px;
+  font-style: bold;
+}
+
+.certification-section .text {
+  display: flex;
+  text-align: center;
+  font-size: 22px;
+  font-family:'Times New Roman', Times, serif;
+  margin-bottom: 30px;
+}
+
+/* SECTION 4: Contact */
+.contact-section {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin: 30px;
+}
+
+.contact-section h2 {
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+  margin-bottom: 20px;
+  font-style: bold;
+  justify-content: center;
+  display: flex;
+
+}
+
+.contact-section .text {
+  display: flex;
+  font-size: 22px;
+  font-family:'Times New Roman', Times, serif;
+  margin-bottom: 40px;
+  text-align: center;
+  justify-content: center;
+}
+
+.contact-section form {
+  flex-direction: column;
+}
+
+.contact-section form input,
+.contact-section form textarea {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border: 2px solid blue;
+  padding: 14px;
+  margin-bottom: 15px;
+  display: flex;
+  border-radius: 7px;
+  flex-direction: column;
+  outline: none;
+  width: 280px;
+  resize: none;
+}
+
+.contact-section .submit {
+  border-radius: 7px;
+  padding: 12px;
+  margin-top: 4px;
+  color: blue;
+  border-color: blue;
+  border: solid;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+.contact-section .submit:hover {
+  color: darkgrey;
+  border: solid;
+  opacity: 0.6;
+  transition: 0.1s;
+}
+
+.contact-section .submit:active {
+  color: #069006;
+  transition: 0.1s;
+  border-color: solid;
+}
+
+
+@media (max-width: 1000px) {
+  .Des {
+    display: none;
+  }
+
+
+@media (max-width: 600px) {
+  nav {
+    padding: 0 10px;
+  }
+
+  .right a span {
+    display: none;
+  }
+
+  .right a {
+    font-size: 20px;
+  }

@@ -7,3 +7,14 @@ This website serves as:
 3. A practical web development project to demonstrate my front-end development skills.
 
 [View site](http://127.0.0.1:5500/First-Project---Personal-Portfolio-/index.html) Hosted on GitHub.
+
+# Table of Contents
+1. Design and Planning
+## User Stories
+
+
+
+3. Wireframes
+4. Typography
+5. Colour Scheme
+

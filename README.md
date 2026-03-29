@@ -10,7 +10,7 @@ This website serves as:
 
 # Table of Contents
 1. [Design and Planning](Plan&Define)
-   - User Stories
+   - [User Stories](UserStories)
    - Wireframes
    - Typography
    - Colour Scheme

@@ -10,9 +10,20 @@ This website serves as:
 
 # Table of Contents
 1. [Design and Planning]
-   - (User Stories) 
+   - User Stories
+   - Wireframes
+   - Typography
+   - Colour Scheme
 
-3. Wireframes
-4. Typography
-5. Colour Scheme
+2. Features
+   - Site Wide Features
+   - Home Page
+   - Skills Page
+   - Certification Page
+   - Contact Page
 
+3. Technologies Used
+4. Testing
+5. Bugs
+6. Deployment
+7. Credits

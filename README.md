@@ -16,11 +16,10 @@ This website serves as:
    - Colour Scheme
 
 2. Features
-   - Site Wide Features
    - Home Page
-   - Skills Page
-   - Certification Page
-   - Contact Page
+   - My skills
+   - Certification page
+   - Contact form
 
 3. Technologies Used
 4. Testing

@@ -36,8 +36,8 @@ This website serves as:
 ## Design & Planning:
 ### User Stories
 1. ### **Homepage/Introduction**
-   ### user Stories:
-   - As a visitor, I want to see a clear introduction on the homepage/introduction so that I can quickly understand who the website belongs to.
+   #### user Stories:
+   - •As a visitor, I want to see a clear introduction on the homepage/introduction so that I can quickly understand who the website belongs to•.
    - As a visitor, I want to be able to open the website to view the owner's role or career ambition so that I know what kind of preofessional they are.
 
 2. ### **About Me Section**

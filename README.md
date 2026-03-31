@@ -63,7 +63,7 @@ This website serves as:
 ### Wireframes
 The wireframes for this website were created using Balsamiq to develop a clear structural understnading. I established the mobile-first approach to ensure the website is responsive to all device formats and optimised.
 
-Homepage/Introduction:
+#### Homepage/Introduction:
 
 
    

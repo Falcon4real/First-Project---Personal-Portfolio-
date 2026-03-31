@@ -35,30 +35,30 @@ This website serves as:
 
 ## Design & Planning:
 ### User Stories
-1. **Homepage/Introduction**
-   user Stories:
-   As a visitor, I want to see a clear introduction on the homepage/introduction so that I can quickly understand who the website belongs to.
-   As a visitor, I want to be able to open the website to view the owner's role or career ambition so that I know what kind of preofessional they are.
+1. ### **Homepage/Introduction**
+   ### user Stories:
+   - As a visitor, I want to see a clear introduction on the homepage/introduction so that I can quickly understand who the website belongs to.
+   - As a visitor, I want to be able to open the website to view the owner's role or career ambition so that I know what kind of preofessional they are.
 
-2. **About Me Section**
-   User Stories:
-   As a visitor, I want to briefly read "About Me" section so that I can learn more about the person behind the portfolio.
-   As a recruiter, I want to understand the website owner's background and interest so that I can assess their suitability for opportunities.
+2. ### **About Me Section**
+   ### User Stories:
+   - As a visitor, I want to briefly read "About Me" section so that I can learn more about the person behind the portfolio.
+   - As a recruiter, I want to understand the website owner's background and interest so that I can assess their suitability for opportunities.
 
-3. **Skills Section**
-   User Stories:
-   As a visitor, I want to see a list of technical and IT skills so that I can understand the website owner's capabilities.
-   As a recruiter, I want to identify the candidate's web development skills so that I can determine whether they match job requirements.
+3. ### **Skills Section**
+   ### User Stories:
+   - As a visitor, I want to see a list of technical and IT skills so that I can understand the website owner's capabilities.
+   - As a recruiter, I want to identify the candidate's web development skills so that I can determine whether they match job requirements.
 
-4. **Qualifications Section**
-   User Stories:
-   As a visitor, I want to view the website owner's qualification so that i can understand their educational and professional background.
-   As a recruiter, I want to quickly find relevant certifications or training so that I can evaluate the candidate's learning and development.
+4. ### **Qualifications Section**
+   ### User Stories:
+   - As a visitor, I want to view the website owner's qualification so that i can understand their educational and professional background.
+   - As a recruiter, I want to quickly find relevant certifications or training so that I can evaluate the candidate's learning and development.
 
-5. **Contact Section**
-   User Stories:
-   As a visitor, I want to find contact information about the owner so that I can easily get in touch.
-   As a recruiter, I want to access important links about the owner of the website such as linkedIn, Github, and Emails so that I can learn more about the professional profile and work of the candidate. 
+5. ### **Contact Section**
+   ### User Stories:
+   - As a visitor, I want to find contact information about the owner so that I can easily get in touch.
+   - As a recruiter, I want to access important links about the owner of the website such as linkedIn, Github, and Emails so that I can learn more about the professional profile and work of the candidate. 
 
 
    

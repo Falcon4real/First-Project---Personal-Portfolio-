@@ -34,3 +34,5 @@ This website serves as:
 7. Credits
 
 ## Design & Planning:
+### User Stories
+1. 

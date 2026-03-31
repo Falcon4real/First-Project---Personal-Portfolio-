@@ -32,3 +32,5 @@ This website serves as:
 5. Bugs
 6. Deployment
 7. Credits
+
+## Design & Planning:

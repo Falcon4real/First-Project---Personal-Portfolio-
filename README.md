@@ -42,23 +42,23 @@ This website serves as:
 
 3. ### **About Me Section**
    #### User Stories:
-   - •As a visitor, I want to briefly read "About Me" section so that I can learn more about the person behind the portfolio.•
-   - •As a recruiter, I want to understand the website owner's background and interest so that I can assess their suitability for opportunities.•
+   - As a visitor, I want to briefly read "About Me" section so that I can learn more about the person behind the portfolio.
+   - As a recruiter, I want to understand the website owner's background and interest so that I can assess their suitability for opportunities.
 
 4. ### **Skills Section**
    #### User Stories:
-   - •As a visitor, I want to see a list of technical and IT skills so that I can understand the website owner's capabilities.•
-   - •As a recruiter, I want to identify the candidate's web development skills so that I can determine whether they match job requirements.•
+   - As a visitor, I want to see a list of technical and IT skills so that I can understand the website owner's capabilities.
+   - As a recruiter, I want to identify the candidate's web development skills so that I can determine whether they match job requirements.
 
 5. ### **Qualifications Section**
    #### User Stories:
-   - •As a visitor, I want to view the website owner's qualification so that i can understand their educational and professional background.•
-   - •As a recruiter, I want to quickly find relevant certifications or training so that I can evaluate the candidate's learning and development.•
+   - As a visitor, I want to view the website owner's qualification so that i can understand their educational and professional background.
+   - As a recruiter, I want to quickly find relevant certifications or training so that I can evaluate the candidate's learning and development.
 
 6. ### **Contact Section**
    #### User Stories:
-   - •As a visitor, I want to find contact information about the owner so that I can easily get in touch.•
-   - •As a recruiter, I want to access important links about the owner of the website such as linkedIn, Github, and Emails so that I can learn more about the professional profile and work of the candidate.• 
+   - As a visitor, I want to find contact information about the owner so that I can easily get in touch.
+   - As a recruiter, I want to access important links about the owner of the website such as linkedIn, Github, and Emails so that I can learn more about the professional profile and work of the candidate.
 
 
    

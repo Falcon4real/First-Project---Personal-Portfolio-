@@ -15,9 +15,9 @@ This website serves as:
 
 
 # Table of Contents
-1. [Design and Planning](#Plan&Define)
-   - [User Stories](#UserStories)
-   - [Wireframes](#Balsamiq)
+1. [Design and Planning](Plan&Define)
+   - [User Stories](UserStories)
+   - [Wireframes](Balsamiq)
    - Typography
    - Colour Scheme
 

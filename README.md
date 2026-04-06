@@ -65,5 +65,29 @@ The wireframes for this website were created using Balsamiq to develop a clear s
 
 #### Homepage/Introduction:
 
+*Attach Here*
 
-   
+### Typography
+When choosing the fonts for my website, I took into account readability, visual appeal, and how well they reflect the brand. As a result, I selected the following typefaces:
+#### Primary Font - Times New Roman
+- Used for all texts, including headings.
+- Clean, readable, modern, and highly clear for mobile views.
+
+#### Secondary Font - Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+- Used as form input font.
+- Simple, clean, neutral, and modern.
+
+#### Colour Scheme
+In deciding on the colour palette, I wanted to ensure it reflected the modern, professional, and accessible standards I had previould set. Hence, I chose the following colours.
+
+*Attach Here*
+
+I used the 'Pure Black' as my primary colour because it creates a professional appearance and works well alongside the colours used in the company logo within the navigation bar.
+
+The website uses Seasalt as its background colour. This soft neutral tone pairs effectively with the primary colour, creating strong contrast while enahncing the surrounding white space for a clean an minimal appearance. 
+
+
+Blue was selected as the website’s primary accent colour because it helps key interactive features stand out from the rest of the layout. Since the background and main text colours are fairly neutral, blue provides clear visual contrast without making the design appear too bold or cluttered. This makes elements such as links, borders, buttons, and form fields easier for users to identify.
+
+
+Green was chosen as the hover and success accent colour because it provides a clear visual response when users interact with the elements on the website. It helps indicate actions such as hovering over links or buttons, making the interface feel more interactive and responsive. This helps in effective user interactions without overpowering the overall design.

@@ -64,7 +64,8 @@ This website serves as:
 The wireframes for this website were created using Balsamiq to develop a clear structural understnading. I established the mobile-first approach to ensure the website is responsive to all device formats and optimised.
 
 #### Homepage/Introduction:
-![Homepage Wireframe](/images/49A13DB6-5D0D-4358-B0B3-CDD8FC64B7D0.png)
+<details><summary>click to display</summary>
+![Homepage Wireframe](/images/49A13DB6-5D0D-4358-B0B3-CDD8FC64B7D0.png)</details>
 
 ### Typography
 When choosing the fonts for my website, I took into account readability, visual appeal, and how well they reflect the brand. As a result, I selected the following typefaces:

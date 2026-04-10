@@ -99,6 +99,6 @@ The website incorporates Bootstrap's responsive navbar component,allowing it to 
 
 _Full size navigation bar:_
 
-
-
+<details><summary>click to display</summary>
+<img src=""></details>
 

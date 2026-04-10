@@ -101,6 +101,7 @@ _Full size navigation bar:_
 
 <details><summary>click to display</summary>
 <img src="/images/NavBar.png"></details>
+
 - Contains developer's full name on the left
 - Contains links to developer's Github, LinkedIn, and Email accounts.
 

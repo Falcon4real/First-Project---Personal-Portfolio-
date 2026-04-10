@@ -117,7 +117,7 @@ _Full size navigation bar:_
 ##### Skills Section
 
 <details><summary>click to display</summary>
-<img src=""></details>
+<img src="/images/Hero-Section-Skills.png"></details>
 
  
 

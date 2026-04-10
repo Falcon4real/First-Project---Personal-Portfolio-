@@ -80,7 +80,7 @@ When choosing the fonts for my website, I took into account readability, visual 
 #### Colour Scheme
 In deciding on the colour palette, I wanted to ensure it reflected the modern, professional, and accessible standards I had previould set. Hence, I chose the following colours.
 <details><summary>click to display</summary>
-<https://github.com/Falcon4real/First-Project---Personal-Portfolio-/blob/53f7f41611c38fecac947c58b3bd23a75ea92028/images/Colour-Scheme.png.png"></details>
+<img src="https://github.com/Falcon4real/First-Project---Personal-Portfolio-/blob/53f7f41611c38fecac947c58b3bd23a75ea92028/images/Colour-Scheme.png"></details>
 
 I used the 'Oklab Black' as my primary colour because it creates a professional appearance and works well alongside the colours used in the company logo within the navigation bar.
 

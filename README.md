@@ -112,7 +112,9 @@ _Hero Section/Introduction to the website:_
 <img src="/images/Hero-Section.png"></details>
 
 - Positioned at the top of the webpage and serves as the main introduction to the website. Contains key information about the purpose of the website, including the descriptive text, and a profile image.
-- It contains interactive elements such as buttons, which edges users to explore more about the developer and the website as a whole. The layout is designed using a flexible structure to ensure it remains vsually balanced and responsive across different screen size.
+- It contains interactive elements such as buttons, which edges users to explore more about the developer and the website as a whole. The layout is designed using a flexible structure to ensure it remains visually balanced and responsive across different screen size.
+
+
 
 
 

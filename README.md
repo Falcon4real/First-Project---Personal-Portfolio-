@@ -79,8 +79,8 @@ When choosing the fonts for my website, I took into account readability, visual 
 
 #### Colour Scheme
 In deciding on the colour palette, I wanted to ensure it reflected the modern, professional, and accessible standards I had previould set. Hence, I chose the following colours.
-
-*Attach Here*
+<details><summary>click to display</summary>
+<img src="/images/"Screenshot 2026-04-10 at 16 05 11"></details>
 
 I used the 'Pure Black' as my primary colour because it creates a professional appearance and works well alongside the colours used in the company logo within the navigation bar.
 

@@ -27,11 +27,11 @@ This website serves as:
    - Certification page
    - Contact form
 
-3. Technologies Used
-4. Testing
-5. Bugs
-6. Deployment
-7. Credits
+4. Technologies Used
+5. Testing
+6. Bugs
+7. Deployment
+8. Credits
 
 ## Design & Planning:
 ### User Stories

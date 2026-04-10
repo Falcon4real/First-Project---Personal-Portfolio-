@@ -80,9 +80,9 @@ When choosing the fonts for my website, I took into account readability, visual 
 #### Colour Scheme
 In deciding on the colour palette, I wanted to ensure it reflected the modern, professional, and accessible standards I had previould set. Hence, I chose the following colours.
 <details><summary>click to display</summary>
-<img src="/images/Colour_Scheme.png"></details>
+<img src="/images/.png"></details>
 
-I used the 'Pure Black' as my primary colour because it creates a professional appearance and works well alongside the colours used in the company logo within the navigation bar.
+I used the 'Oklab Black' as my primary colour because it creates a professional appearance and works well alongside the colours used in the company logo within the navigation bar.
 
 The website uses Seasalt as its background colour. This soft neutral tone pairs effectively with the primary colour, creating strong contrast while enahncing the surrounding white space for a clean an minimal appearance. 
 
@@ -91,3 +91,12 @@ Blue was selected as the website’s primary accent colour because it helps key 
 
 
 Green was chosen as the hover and success accent colour because it provides a clear visual response when users interact with the elements on the website. It helps indicate actions such as hovering over links or buttons, making the interface feel more interactive and responsive. This helps in effective user interactions without overpowering the overall design.
+
+## Features:
+### Site Wide Features:
+#### Navigation
+The website incorporates Bootstrap's responsive navbar component,allowing it to adapt smoothly to different screen sizes, from desktop devices to mobile devices. The navbar is divided into right and left bar - which the left bar represent the developer's full name, and the right bar representing links to GitHub, LindkedIn, and Email. The primary colour used here was a modern and clean font "Oklab Black." the right navbar are clickable to the developer's handles.
+
+
+
+

@@ -1,5 +1,11 @@
 body {
-  max-width: 100%;
+  width: 100%;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #f8f8f8;
+}
+
+body {
+  overflow-x: hidden;
 }
 
 p {
@@ -11,7 +17,7 @@ p {
   margin-top: 40px;
   border-radius: 50%;
   width: 300px;
-  margin-right: 50px;
+  margin-right: 80px;
 }
 
 /* NAVBAR */
@@ -21,25 +27,25 @@ nav {
   padding: 0 20px;
   align-items: center;
   height: 40px;
+  margin-top: 20px;
 }
 
 .left {
-  color: black;
+  color: oklab(0% 0 0);
   height: 20px;
   font-weight: bold;
-  font-size: 35px;
-  margin-top: 60px;
+  font-size: 40px;
 }
 
 .left:hover {
   opacity: 0.5;
-  color: rgb(0, 128, 0);
+  color: grey;
 }
 
 .right a {
   color: black;
   font-size: 16px;
-  font-weight: 250px;
+  font-weight: 250;
   padding: 5px;
   margin: 4px;
   text-decoration: none;
@@ -50,7 +56,7 @@ nav {
 }
 
 .linkedin:hover {
-  color: blue;
+  color: #0000ff;
 }
 
 /*SECTION 1: Hero */
@@ -61,11 +67,11 @@ nav {
   align-items: center;
 }
 
-hero-section .statement {
+.hero-section .statement {
   flex: 5;
 }
 
-hero-section .headphoto {
+.hero-section .headphoto {
   flex: 2;
 }
 
@@ -92,8 +98,8 @@ hero-section .headphoto {
   display: inline-block;
   padding: 7px;
   margin-left: 18px;
-  border-color: blue;
-  color: blue;
+  border-color: #0000ff;
+  color: #0000ff;
   border: solid;
   border-radius: 7px;
   margin-top: 20px;
@@ -109,7 +115,6 @@ hero-section .headphoto {
 /* SECTION 2: Skills */
 
 .skills-section {
-  margin-top: 50px;
   margin: 80px;
 }
 
@@ -118,7 +123,7 @@ hero-section .headphoto {
   font-size: 25px;
 }
 
-.skills-section.cells {
+.skills-section .cells {
   display: inline-block;
 }
 
@@ -146,8 +151,8 @@ hero-section .headphoto {
 
 /* SECTION 3: Certifications */
 .certification-section {
-  margin-top: 50px;
-  margin: 80px;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 .certification-section h2 {
@@ -155,7 +160,7 @@ hero-section .headphoto {
   font-size: 25px;
   font-family:'Times New Roman', Times, serif;
   margin-bottom: 30px;
-  font-style: bold;
+  font-weight: bold;
 }
 
 .certification-section .text {
@@ -163,24 +168,22 @@ hero-section .headphoto {
   text-align: center;
   font-size: 22px;
   font-family:'Times New Roman', Times, serif;
-  margin-bottom: 30px;
+  margin: 50px;
 }
 
 /* SECTION 4: Contact */
 .contact-section {
   margin-top: 50px;
-  margin-bottom: 50px;
-  margin: 30px;
+  margin: 50px;
 }
 
 .contact-section h2 {
   font-size: 25px;
   font-family: 'Times New Roman', Times, serif;
   margin-bottom: 20px;
-  font-style: bold;
+  font-weight: bold;
   justify-content: center;
   display: flex;
-
 }
 
 .contact-section .text {
@@ -193,8 +196,9 @@ hero-section .headphoto {
 }
 
 .contact-section form {
-  flex-direction: column;
-}
+  justify-content: center;
+  align-items: center;
+  }
 
 .contact-section form input,
 .contact-section form textarea {
@@ -202,7 +206,7 @@ hero-section .headphoto {
   border: 2px solid blue;
   padding: 14px;
   margin-bottom: 15px;
-  display: flex;
+  display: block;
   border-radius: 7px;
   flex-direction: column;
   outline: none;
@@ -212,9 +216,10 @@ hero-section .headphoto {
 
 .contact-section .submit {
   border-radius: 7px;
-  padding: 12px;
-  margin-top: 4px;
-  color: blue;
+  padding-right: 16px;
+  padding-left: 16px;
+  margin-top: 7px;
+  color: #0000ff;
   border-color: blue;
   border: solid;
   cursor: pointer;
@@ -232,25 +237,5 @@ hero-section .headphoto {
 .contact-section .submit:active {
   color: #069006;
   transition: 0.1s;
-  border-color: solid;
+  border-color: 1px solid blue;
 }
-
-
-@media (max-width: 1000px) {
-  .Des {
-    display: none;
-  }
-
-
-@media (max-width: 600px) {
-  nav {
-    padding: 0 10px;
-  }
-
-  .right a span {
-    display: none;
-  }
-
-  .right a {
-    font-size: 20px;
-  }

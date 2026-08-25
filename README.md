@@ -14,26 +14,6 @@ This website serves as:
 
 [View site](http://127.0.0.1:5500/First-Project---Personal-Portfolio-/index.html) Hosted on GitHub.
 
-
-# Table of Contents
-1. [Design and Planning](Plan&Define)
-   - [User Stories](UserStories)
-   - [Wireframes](Balsamiq)
-   - Typography
-   - Colour Scheme
-
-2. Features
-   - Home Page
-   - My skills
-   - Certification page
-   - Contact form
-
-3. Technologies Used
-4. Testing
-5. Bugs
-6. Deployment
-7. Credits
-
 ## Design & Planning:
 ### User Stories
 1. ### **Homepage/Introduction**

@@ -187,7 +187,7 @@ Upon a successful submission of the contact form, there's a positive feedback to
   - Home page hero image by myself [My Gallery](images/AAA45F50-5559-44B8-B2F2-8281FE1DBEB2_1_105_c.jpeg)
 
 - Acknowledgement
-  I would like to thank my tutor, Kevin, for his guidance and explanations throughout this project.
+  - I would like to thank my tutor, Kevin, for his guidance and explanations throughout this project.
 
 
 

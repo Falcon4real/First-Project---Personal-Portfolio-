@@ -66,7 +66,7 @@ The wireframes for this website were created using Balsamiq to develop a clear s
 
 #### Homepage/Introduction:
 <details><summary>click to display</summary>
-<img src="/Image(s)/Your First Project_Mobile.pdf></details>
+   <img src="/Image(s)/Your First Project_Mobile.pdf></details>
 
 ### Typography
 When choosing the fonts for my website, I took into account readability, visual appeal, and how well they reflect the brand. As a result, I selected the following typefaces:

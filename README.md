@@ -46,7 +46,7 @@ The wireframes for this website were created using Balsamiq to develop a clear s
 
 #### Homepage/Introduction:
 <details><summary>click to display</summary>
-   <img src="/https://github.com/Falcon4real/First-Project---Personal-Portfolio-/blob/main/Image(s)/49A13DB6-5D0D-4358-B0B3-CDD8FC64B7D0.png></details>
+   <img src="https://github.com/Falcon4real/First-Project---Personal-Portfolio-/blob/main/Image(s)/49A13DB6-5D0D-4358-B0B3-CDD8FC64B7D0.png></details>
 
 ### Typography
 When choosing the fonts for my website, I took into account readability, visual appeal, and how well they reflect the brand. As a result, I selected the following typefaces:

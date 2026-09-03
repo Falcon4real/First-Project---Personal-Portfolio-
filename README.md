@@ -61,7 +61,7 @@ When choosing the fonts for my website, I took into account readability, visual 
 #### Colour Scheme
 In deciding on the colour palette, I wanted to ensure it reflected the modern, professional, and accessible standards I had previould set. Hence, I chose the following colours.
 <details><summary>click to display</summary>
-<img src="images/Colour-Scheme.png"></details>
+<img src="images/Colour-Scheme.png" alt="Colour scheme"></details>
 
 I used the 'Oklab Black' as my primary colour because it creates a professional appearance and works well alongside the colours used in the company logo within the navigation bar.
 

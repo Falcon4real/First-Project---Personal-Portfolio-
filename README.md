@@ -82,7 +82,7 @@ _Full size navigation bar:_
 - Contains developer's full name on the left
 - Contains links to developer's Github, LinkedIn, and Email accounts.
 <details><summary>click to display</summary>
-<img src="/images/NavBar.png"></details>
+<img src="images/NavBar.png" alt="NavBar"></details>
 
 #### Hero Section/Introduction to the website
 - Positioned at the top of the webpage and serves as the main introduction to the website. Contains key information about the purpose of the website, including the descriptive text, and a profile image.

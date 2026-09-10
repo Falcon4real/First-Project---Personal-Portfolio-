@@ -115,7 +115,7 @@ The website provides a contact form that enables users to reach out to the devel
 - The correct for required is deployed to prevent users from submitting the form without the valid information.
 - After a successful submission, the user is directed to the Code Institute formdump which displays a success message.
 <details><summary>click to display</summary>
-<img src="/images/Contact_Page.png"></details>
+<img src="Image(s)/Contact Section.png"></details>
 
 ##### Success Page
 Upon a successful submission of the contact form, there's a positive feedback to prevent the user from submitting multiple forms.

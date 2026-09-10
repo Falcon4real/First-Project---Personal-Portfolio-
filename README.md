@@ -86,10 +86,10 @@ Transparent blue 'rgba(0, 0, 255, 0.15)' was applied to serve as a highlight aro
 ## Features:
 ### Site Wide Features:
 #### Navigation
-The website incorporates Bootstrap's responsive navbar component,allowing it to adapt smoothly to different screen sizes, from desktop devices to mobile devices. The navbar is divided into right and left bar - which the left bar represent the developer's full name, and the right bar representing links to GitHub, LindkedIn, and Email. The primary colour used here was a modern and clean font "Oklab Black." the right navbar are clickable to the developer's handles.
+The website incorporates Bootstrap's responsive navbar component,allowing it to adapt smoothly to different screen sizes, from desktop devices to mobile devices. The navbar is divided into right and left bar - which the left bar represent the developer's full name, and the right bar representing links to GitHub, LindkedIn, and Email. The primary colour used here was a modern and clean font "Black." the right navbar are clickable to the developer's handles.
 
 _Full size navigation bar:_
-- Contains developer's full name on the left
+- Contains developer's full name on the middle.
 - Contains links to developer's Github, LinkedIn, and Email accounts.
 <details><summary>click to display</summary>
 <img src="images/NavBar.png" alt="NavBar"></details>

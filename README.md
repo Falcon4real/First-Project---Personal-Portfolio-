@@ -103,7 +103,7 @@ _Full size navigation bar:_
 ##### Skills Section 
 This section highlights my core technical skills I am currently acquiring with Code Institute through Runshaw College. It is presented just underneath the hero/introduction section which is presented in a three-line row. 
 <details><summary>click to display</summary>
-<img src="/images/Skills-Section.png"></details>
+<img src="Image(s)/Skills Section.png"></details>
 
 ##### Certification Section
 The Certification Sectionis added to showcase my qualifications and accomplishements I have gained while developing my skills. The sections displays certifications in a well-organised and structured way, which makes it easy for users to recognise my knowledge and areas of expetise. Its follows a simple and consistent typography, which improves readability and keeps it visually consistent with the rest of the website.  

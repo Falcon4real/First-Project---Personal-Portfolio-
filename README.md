@@ -108,7 +108,7 @@ This section highlights my core technical skills I am currently acquiring with C
 ##### Certification Section
 The Certification Sectionis added to showcase my qualifications and accomplishements I have gained while developing my skills. The sections displays certifications in a well-organised and structured way, which makes it easy for users to recognise my knowledge and areas of expetise. Its follows a simple and consistent typography, which improves readability and keeps it visually consistent with the rest of the website.  
 <details><summary>click to display</summary>
-<img src="/images/Certification%20Section.png"></details>
+<img src="Image(s)/Certification Section.png"></details>
 
 ##### Contact Page
 The website provides a contact form that enables users to reach out to the developer - collaboration for professional and academic purposes.

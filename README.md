@@ -92,7 +92,7 @@ _Full size navigation bar:_
 - Contains developer's full name on the middle.
 - Contains links to developer's Github, LinkedIn, and Email accounts.
 <details><summary>click to display</summary>
-<img src="Image(s)/NavBar.png" />
+<img src="Image(s)/NavBar.png">
 "></details>
 
 #### Hero Section/Introduction to the website

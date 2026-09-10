@@ -63,15 +63,25 @@ In deciding on the colour palette, I wanted to ensure it reflected the modern, p
 <details><summary>click to display</summary>
 <img src="Image(s)/Colour_ways_palette.png"></details>
 
-I used the 'Oklab Black' as my primary colour because it creates a professional appearance and works well alongside the colours used in the company logo within the navigation bar.
+The website made use of a neutral foundation of off-white, white and black, supported by blue accents for interactive elements. I used transparent to add subtle depth and provided visual feedback.
 
-The website uses Seasalt as its background colour. This soft neutral tone pairs effectively with the primary colour, creating strong contrast while enahncing the surrounding white space for a clean an minimal appearance. 
+I used the 'off-white' for the main body and NavBar backgrounds. It provides a soft, neutral foundation that is less harsh that pure white while maintaining strong contrast with the website's black text.
 
+White was used for the certification section, skill card and contrast form. It highlights these sections from the off-white background and presents the contents into a clear visual sections.
 
-Blue was selected as the website’s primary accent colour because it helps key interactive features stand out from the rest of the layout. Since the background and main text colours are fairly neutral, blue provides clear visual contrast without making the design appear too bold or cluttered. This makes elements such as links, borders, buttons, and form fields easier for users to identify.
+I used black for the main text, NavBar and navigation links. It provided a strong contrast against the light backgrounds to improve readability and create a professional appearance.
 
+Primary blue was used for all the skills-cards borders and icons, form-field borders, navigation hover effects and input states. This colour was repeated to help users identify interactive and important interface elements.
 
-Green was chosen as the hover and success accent colour because it provides a clear visual response when users interact with the elements on the website. It helps indicate actions such as hovering over links or buttons, making the interface feel more interactive and responsive. This helps in effective user interactions without overpowering the overall design.
+Bootstrap blue was applied by the 'btn-outline-primary' class to the Skills, Certifications, Contact and Send Message buttons. it gives calls to action a consistent and recognisable appearance.
+
+The medium grey was used on hovering the NavBar brand. it creates and subtle feedback without conflicting with the blue navigation links and buttons.
+
+Transparent black 'rgba(0, 0, 0, 0.12)' was applied on all skill-card hover shadow. It provided a raised appearance of the card when the user points the cursor over it.
+
+Transparent black 'rgba(0, 0, 0, 0.08)' is used around the contact form. It provides a lighter shadow that separates the form from the surrounding background while it maintains its distinctive and clean design. 
+
+Transparent blue 'rgba(0, 0, 255, 0.15)' is used to serve as a highlight around the selected form fields, making the active field easy be identified and improves keyboard accessibility.
 
 ## Features:
 ### Site Wide Features:

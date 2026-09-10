@@ -147,9 +147,13 @@ Upon a successful submission of the contact form, there's a positive feedback to
 - Balsamiq Wireframe
   - Wireframes were created from https://balsamiq.com/wireframes/desktop/# to visualise the website layout.
 - Chat GPT
-  - Was used to turn rough notes into professional documentation.
-  - Fixed grammatical error and formatting.
+  - Used Chat GPT to turn rough notes into professional documentation.
+  - To fixed grammatical error and formatting.
   - Presented clear explanations for easy understanding of concepts.
+- Use.ai
+  - I used Use.ai to identify errors in my HTML and CSS and suggested corrected code.
+  - It provided Bootstrap classes, grid layouts, and media queries to improve the website on desktop, tablet, and mobile screens.
+  - I utilised Use.ai to suggest colour combinations, typography, spacing, section backgrounds, and NavBar styling.
 
 ## Testing
 ### Google's Lighthouse Performance

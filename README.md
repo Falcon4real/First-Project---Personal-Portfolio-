@@ -65,23 +65,23 @@ In deciding on the colour palette, I wanted to ensure it reflected the modern, p
 
 The website made use of a neutral foundation of off-white, white and black, supported by blue accents for interactive elements. I used transparent colours to add subtle depth and provided visual feedback.
 
-I used the 'off-white' for the main body and NavBar backgrounds. It provides a soft, neutral foundation that is less harsh that pure white while maintaining strong contrast with the website's black text.
+I used the 'off-white' for the main body and NavBar backgrounds. It provides a soft, neutral foundation that is less harsh than the pure white while maintaining strong contrast with the website's black text.
 
-White was used for the certification section, skill card and contrast form. It highlights these sections from the off-white background and presents the contents into a clear visual sections.
+White was applied at the certification section, skill card and contrast form. It highlights these sections from the off-white background and presents the contents into a clear visual sections.
 
 I used black for the main text, NavBar and navigation links. It provided a strong contrast against the light backgrounds to improve readability and create a professional appearance.
 
 Primary blue was used for all the skills-cards borders and icons, form-field borders, navigation hover effects and input states. This colour was repeated to help users identify interactive and important interface elements.
 
-Bootstrap blue was applied by the 'btn-outline-primary' class to the Skills, Certifications, Contact and Send Message buttons. it gives calls to action a consistent and recognisable appearance.
+Bootstrap blue was applied by the 'btn-outline-primary' class to the Skills, Certifications, Contact and Send Message buttons. It gives calls to action a consistent and recognisable appearance.
 
-The medium grey was used on hovering the NavBar brand. it creates and subtle feedback without conflicting with the blue navigation links and buttons.
+The medium grey was used on hovering the NavBar brand. It creates and subtle feedback without conflicting with the blue navigation links and buttons.
 
-Transparent black 'rgba(0, 0, 0, 0.12)' was applied on all skill-card hover shadow. It provided a raised appearance of the card when the user points the cursor over it.
+Transparent black 'rgba(0, 0, 0, 0.12)' was applied on all skill-card hover shadow. It provided a raised appearance of the card when a user points the cursor over it.
 
 Transparent black 'rgba(0, 0, 0, 0.08)' is used around the contact form. It provides a lighter shadow that separates the form from the surrounding background while it maintains its distinctive and clean design. 
 
-Transparent blue 'rgba(0, 0, 255, 0.15)' is used to serve as a highlight around the selected form fields, making the active field easy be identified and improves keyboard accessibility.
+Transparent blue 'rgba(0, 0, 255, 0.15)' was applied to serve as a highlight around the selected form fields, making the active field easy to be identified and improves keyboard accessibility.
 
 ## Features:
 ### Site Wide Features:

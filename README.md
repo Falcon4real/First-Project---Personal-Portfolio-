@@ -63,7 +63,7 @@ In deciding on the colour palette, I wanted to ensure it reflected the modern, p
 <details><summary>click to display</summary>
 <img src="Image(s)/Colour_ways_palette.png"></details>
 
-The website made use of a neutral foundation of off-white, white and black, supported by blue accents for interactive elements. I used transparent to add subtle depth and provided visual feedback.
+The website made use of a neutral foundation of off-white, white and black, supported by blue accents for interactive elements. I used transparent colours to add subtle depth and provided visual feedback.
 
 I used the 'off-white' for the main body and NavBar backgrounds. It provides a soft, neutral foundation that is less harsh that pure white while maintaining strong contrast with the website's black text.
 

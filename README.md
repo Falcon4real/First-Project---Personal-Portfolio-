@@ -122,7 +122,7 @@ Upon a successful submission of the contact form, there's a positive feedback to
 - The success message after submitting the form provide the user of a successful submission.
 - This page is the Code Institute's form dump, which shows provide the user with a CONGRATULATIONS message to denote a successful submission.
 <details><summary>click to display</summary>
-<img src="/images/Success_page.png"></details>
+<img src="Image(s)/Success_page.png"></details>
 
 ##### Future Improvements
 - In the future, I would like to provide further improvements on the responsiveness of the website, to ensure a smoother experience across a wider range of devices and screen sizes accordingly.

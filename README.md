@@ -106,7 +106,7 @@ This section highlights my core technical skills I am currently acquiring with C
 <img src="Image(s)/Skills Section.png"></details>
 
 ##### Certification Section
-The Certification Sectionis added to showcase my qualifications and accomplishements I have gained while developing my skills. The sections displays certifications in a well-organised and structured way, which makes it easy for users to recognise my knowledge and areas of expetise. Its follows a simple and consistent typography, which improves readability and keeps it visually consistent with the rest of the website.  
+The Certification Section is added to showcase my qualifications and accomplishments I have gained while developing my skills. The section displays certifications in a well-organised and structured way, which makes it easy for users to recognise my knowledge and areas of expetise. Its follows a simple and consistent typography, which improves readability and keeps it visually consistent with the rest of the website.  
 <details><summary>click to display</summary>
 <img src="Image(s)/Certification Section.png"></details>
 
@@ -135,7 +135,7 @@ Upon a successful submission of the contact form, there's a positive feedback to
 - CSS
   - Custom CSS was used to style the website.
 - Visual Studio Code
-  - Visual Studio Code was used to write, edite and manage the code which was used to developed the website.
+  - Visual Studio Code was used to write, edit and manage the code used to developed the website.
 - GitHub
   - Github was used to host the source code and deployed using Git pages.
 - Git

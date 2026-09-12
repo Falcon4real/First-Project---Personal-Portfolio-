@@ -159,7 +159,7 @@ Upon a successful submission of the contact form, there's a positive feedback to
 ### Google's Lighthouse Performance
 #### Home Page
 <details><summary>click to view</summary>
-<img src="/images/Lighthouse_performance.png"></details>
+<img src="Image(s)/Lighthouse_1.png"></details>
 
 #### Form Dump Page
 <details><summary>click to view</summary>

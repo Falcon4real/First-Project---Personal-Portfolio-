@@ -198,7 +198,14 @@ Browser tested
 - Microsoft Edge
 - Safari
 
-|-------|
+| Feature Tested | Expected Outcome | Test Results |
+|--------|--------|--------|
+| Navigation Links | Each links leads to appropriate | Pass|
+| Buttons | Responds to intended actions and performed correctly | Pass |
+| Form | Form can be submitted and validates | Pass |
+| Success Page | User is taken to the Success page after completing the form successfully | Pass |
+| 404 Page | The user is shown a 404 error when accessing a broken link | Pass | 
+| Mobile Responsiveness | The layout works well on different screen sizes | Pass
 
 ## Credits
 - In the development of this project, I referenced back to Love Running and Walk-Through Projects for guidance and inspiration. Any re-used sections from the projects are credited in the source code through the comments.

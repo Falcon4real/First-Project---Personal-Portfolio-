@@ -212,7 +212,10 @@ Browser tested
 All checks were passed, showing that the system performs well on different platforms.
 
 ### Responsiveness
-
+Different device sizes were tested using Google DevTools. 
+- Desktop
+  <details><summary>click to view</summary>
+     <img src="Image(s)/Lighthouse_Mobile_4.png"></details>
 
 
 

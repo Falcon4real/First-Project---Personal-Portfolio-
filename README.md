@@ -220,6 +220,10 @@ Different device sizes were tested using Google DevTools.
 - Ipad pro (1024x1366)
   <details><summary>click to view</summary>
      <img src="Image(s)/Responsiveness_ipad pro.png"></details>
+
+- Iphone 16 pro max
+   <details><summary>click to view</summary>
+     <img src=""></details>
   
 
 

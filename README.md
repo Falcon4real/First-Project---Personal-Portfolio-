@@ -178,6 +178,9 @@ Upon a successful submission of the contact form, there's a positive feedback to
 <details><summary>click to view</summary>
 <img src="Image(s)/New 404 Page.png"></details>
 
+### Google's Lighthouse Performance On Mobile
+
+
 ## Credits
 - In the development of this project, I referenced back to Love Running and Walk-Through Projects for guidance and inspiration. Any re-used sections from the projects are credited in the source code through the comments.
 

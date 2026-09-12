@@ -191,6 +191,12 @@ Upon a successful submission of the contact form, there's a positive feedback to
 <details><summary>click to view</summary>
 <img src="Image(s)/Lighthouse_Mobile_4.png"></details>
 
+### Browser Compatibility
+Browser tested
+- Google Chrome
+- Firefox
+- Microsoft Edge
+- Safari
 
 ## Credits
 - In the development of this project, I referenced back to Love Running and Walk-Through Projects for guidance and inspiration. Any re-used sections from the projects are credited in the source code through the comments.

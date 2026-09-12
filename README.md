@@ -209,6 +209,8 @@ Browser tested
 | 404 Page | The user is shown a 404 error when accessing a broken link | Pass | 
 | Mobile Responsiveness | The layout works well on different screen sizes | Pass
 
+All checks were passed, showing that the system performs well on different platforms
+
 
 ## Credits
 - In the development of this project, I referenced back to Love Running and Walk-Through Projects for guidance and inspiration. Any re-used sections from the projects are credited in the source code through the comments.

@@ -213,7 +213,7 @@ All checks were passed, showing that the system performs well on different platf
 
 ### Responsiveness
 Different device sizes were tested using Google DevTools. 
-- Desktop
+- Desktop (1200x1366)
   <details><summary>click to view</summary>
      <img src="Image(s)/Responsiveness_Desktop.png"></details>
 

@@ -209,7 +209,7 @@ Browser tested
 | 404 Page | The user is shown a 404 error when accessing a broken link | Pass | 
 | Mobile Responsiveness | The layout works well on different screen sizes | Pass
 
-All checks were passed, showing that the system performs well on different platforms
+All checks were passed, showing that the system performs well on different platforms.
 
 
 ## Credits

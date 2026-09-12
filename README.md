@@ -217,6 +217,10 @@ Different device sizes were tested using Google DevTools.
   <details><summary>click to view</summary>
      <img src="Image(s)/Responsiveness_Desktop.png"></details>
 
+- Ipad pro (1024x1366)
+  <details><summary>click to view</summary>
+     <img src="Image(s)/Responsiveness_Desktop.png"></details>
+  
 
 
 ## Credits

@@ -164,6 +164,10 @@ Upon a successful submission of the contact form, there's a positive feedback to
 <details><summary>click to view</summary>
 <img src="Image(s)/Lighthouse_2.png"></details>
 
+<details><summary>click to view</summary>
+<img src=""></details>
+
+
 #### Form Dump Page
 <details><summary>click to view</summary>
 <img src="/images/FormDump_Page.png"></details>

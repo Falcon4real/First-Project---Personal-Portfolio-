@@ -223,7 +223,7 @@ Different device sizes were tested using Google DevTools.
 
 - Iphone 16 pro max
    <details><summary>click to view</summary>
-     <img src=""></details>
+     <img src="Image(s)/Responsiveness_iphone 16 pro max.png"></details>
   
 
 

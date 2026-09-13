@@ -211,6 +211,7 @@ Browser tested
 
 All checks were passed, showing that the system performs well on different platforms.
 
+
 ### Responsiveness
 Different device sizes were tested using Google DevTools. 
 - Desktop (1200x1366)
@@ -224,6 +225,7 @@ Different device sizes were tested using Google DevTools.
 - Iphone 16 pro max
    <details><summary>click to view</summary>
      <img src="Image(s)/Responsiveness_iphone 16 pro max.png"></details>
+
   
 
 ## Credits

@@ -48,7 +48,7 @@ The wireframes for this website were created using Balsamiq to develop a clear s
 <details><summary>click to display</summary>
    <img src="Image(s)/Landing_page.png"></details>
 
-## Typography
+### Typography
 When choosing the fonts for my website, I took into account readability, visual appeal, and how well they reflect the brand. As a result, I selected the following typefaces:
 #### Primary Font - Times New Roman, Times, serif
 - used for body text, paragraphs, headings, navigation and most of the website content.

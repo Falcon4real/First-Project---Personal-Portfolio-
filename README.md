@@ -232,7 +232,7 @@ Different device sizes were tested using Google DevTools.
 |--------|--------|--------|--------|
 | Navigation: As a visitor, I want to use the navigation links to access relevant sections and external profiles | The GitHub and LinkedIn links open the correct profiles in new tabs. The Email link opens the user's default email application with the correct recipient address | Pass | Cell |
 | Hero-section: As a visitor, I want to see an introduction and profile photograph | The introductory heading, descriptive paragraphs and profile photograph appear correctly. The image remains circular, proportional and undistorted | Pass | Cell |
-| Skills & Certification: As a potential employer, I want to view the developer's technical skills | The Skills section displays HTML, CSS and JavaScript cards with the correct labels and Font Awesome icons. Each card responds to pointer hover with upward movement and a shadow | Pass | Cell |
+| Skills & Certifications: As a potential employer, I want to view the developer's technical skills | The Skills section displays HTML, CSS and JavaScript cards with the correct labels and Font Awesome icons. Each card responds to pointer hover with upward movement and a shadow | Pass | Cell |
 | Contact-form: As a visitor, I want to complete a contact form | The user can enter a name, email address and message, and the Send Message button is available. A correctly completed form submits to the configured form-processing service | Pass | Cell |
 | Responsive Design: As a mobile or tablet user, I want the website to adapt to my screen size | On desktop, the hero text and image appear side by side. On tablet and mobile, the layout adjusts or stacks while text, images and controls remain readable and usable | Pass | Cell | 
 

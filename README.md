@@ -237,6 +237,8 @@ Different device sizes were tested using Google DevTools.
 | Responsive Design: As a mobile or tablet user, I want the website to adapt to my screen size | On desktop, the hero text and image appear side by side. On tablet and mobile, the layout adjusts or stacks while text, images and controls remain readable and usable | Pass | <img width="348" height="728" alt="Image" src="https://github.com/user-attachments/assets/f6c3ee71-747d-4159-9bff-c42d7c0dad94" /> | 
 
 ## Bugs
+### Fixed bugs
+1. When validating my CSS code on W3C website, I kept receiving a 'Trailing Slash'. I manually eliminated all of them.
 
 
 

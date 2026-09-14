@@ -226,6 +226,10 @@ Different device sizes were tested using Google DevTools.
    <details><summary>click to view</summary>
      <img src="Image(s)/Responsiveness_iphone 16 pro max.png"></details>
 
+Manual Testing User Stories
+
+| Navigation | | Hero Section | | Skills & Certifications | | Contacts | | Responsive Design |
+|---------||--------||---------||----------||-------------|
 
 
 ## Credits:

@@ -228,7 +228,7 @@ Different device sizes were tested using Google DevTools.
 
 Manual Testing User Stories
 
-| Navigation | | Hero Section | | Skills & Certifications | | Contacts | | Responsive Design |
+| Navigation||Hero Section||Skills & Certifications||Contacts||Responsive Design|
 |---------||--------||---------||----------||-------------|
 
 

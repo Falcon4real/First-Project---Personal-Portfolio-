@@ -228,8 +228,14 @@ Different device sizes were tested using Google DevTools.
 
 Manual Testing User Stories
 
-| Navigation||Hero Section||Skills & Certifications||Contacts||Responsive Design|
-|---------||--------||---------||----------||-------------|
+| User Story | Test | Outcome | Screenshot |
+|--------|--------|--------|--------|--------|
+| Navigation: As a visitor, I want to use the navigation links so that I can access the relevant sections and external profiles | The GitHub and LinkedIn links open the correct profiles in new tabs. The Email link opens the user's default email application with the correct recipient address | | Pass | Cell |
+| Hero-Section: As a visitor, I want to see an introduction and profile photograph | The introductory heading, descriptive paragraphs and profile photograph appear correctly. The image remains circular, proportional and undistorted | Pass |  | Cell |
+| Skills & Certifications: As a potential employer, I want to view the developer's technical skills |  | Pass | The Skills section displays HTML, CSS and JavaScript cards with the correct labels and Font Awesome icons. Each card responds to pointer hover with upward movement and a shadow | Cell |
+| Cell | Cell | Cell | Cell | Cell |
+| Cell | Cell | Cell | Cell | Cell | 
+
 
 
 ## Credits:

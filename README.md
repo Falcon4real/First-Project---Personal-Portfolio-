@@ -236,6 +236,9 @@ Different device sizes were tested using Google DevTools.
 | Contact-form: As a visitor, I want to complete a contact form | The user can enter a name, email address and message, and the Send Message button is available. A correctly completed form submits to the configured form-processing service | Pass | <img width="1333" height="737" alt="Image" src="https://github.com/user-attachments/assets/01445d6a-1872-4484-93eb-bb9e8e06698b" /> |
 | Responsive Design: As a mobile or tablet user, I want the website to adapt to my screen size | On desktop, the hero text and image appear side by side. On tablet and mobile, the layout adjusts or stacks while text, images and controls remain readable and usable | Pass | <img width="348" height="728" alt="Image" src="https://github.com/user-attachments/assets/f6c3ee71-747d-4159-9bff-c42d7c0dad94" /> | 
 
+## Bugs
+
+
 
 ## Credits:
 - In the development of this project, I referenced back to Love Running and Walk-Through Projects for guidance and inspiration. Any re-used sections from the projects are credited in the source code through the comments.

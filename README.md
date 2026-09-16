@@ -238,9 +238,8 @@ Different device sizes were tested using Google DevTools.
 
 ## Bugs
 ### Fixed bugs
-1. When validating my CSS code on W3C website, I kept receiving a 'Trailing Slash'. I manually eliminated all of them.
-
-
+1. During checking my website on W3C validator, I received some few errors with 'Trailing Slash'. I manually went through each of the them and eliminated all of them.
+2. Fixed the issue of fixed-width layouts and permanent horizontal positioning – replaced it with Bootstrap to create a responsive grid that adapts to all screen widths.
 
 ## Credits:
 - In the development of this project, I referenced back to Love Running and Walk-Through Projects for guidance and inspiration. Any re-used sections from the projects are credited in the source code through the comments.

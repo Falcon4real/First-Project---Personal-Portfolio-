@@ -16,11 +16,6 @@ This website serves as:
 
 
 # Table of Contents
-1. [Design and Planning](Plan&Define)
-   - [User Stories](UserStories)
-   - [Wireframes](Balsamiq)
-   - Typography
-   - Colour Scheme
 
 2. Features
    - Home Page
@@ -65,8 +60,10 @@ This website serves as:
 The wireframes for this website were created using Balsamiq to develop a clear structural understnading. I established the mobile-first approach to ensure the website is responsive to all device formats and optimised.
 
 #### Homepage/Introduction:
-<details><summary>click to display</summary>
-<img src="/images/49A13DB6-5D0D-4358-B0B3-CDD8FC64B7D0.png"></details>
+<details>
+<summary>Click to display</summary>
+<img src="[raw.githubusercontent.com](https://raw.githubusercontent.com/Falcon4real/First-Project---Personal-Portfolio-/main/)<actual-folder-path>/49A13DB6-5D0D-4358-B0B3-CDD8FC64B7D0.png">
+</details>
 
 ### Typography
 When choosing the fonts for my website, I took into account readability, visual appeal, and how well they reflect the brand. As a result, I selected the following typefaces:

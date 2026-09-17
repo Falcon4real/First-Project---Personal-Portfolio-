@@ -1,0 +1,86 @@
+<svg width="1100" height="650" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 1100 650">
+<rect width="1100" height="650" x="0" y="0" fill="#ffffff"></rect>
+<path d="M319 130A221 221 0 0 1 461.1 181.7L377.5 281.3A91 91 0 0 0 319 260Z" fill="#f8f8f8" stroke="#b8b8b8" stroke-linejoin="round" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr0-cls-0"></path>
+<path d="M461.1 181.7A221 221 0 0 1 536.6 312.6L408.6 335.2A91 91 0 0 0 377.5 281.3Z" fill="#ffffff" stroke="#b8b8b8" stroke-linejoin="round" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr0-cls-0"></path>
+<path d="M536.6 312.6A221 221 0 0 1 510.4 461.5L397.8 396.5A91 91 0 0 0 408.6 335.2Z" fill="#000000" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr0-cls-1"></path>
+<path d="M510.4 461.5A221 221 0 0 1 394.6 558.7L350.1 436.5A91 91 0 0 0 397.8 396.5Z" fill="#0000ff" ecmeta_series_index="0" ecmeta_data_index="3" ecmeta_ssr_type="chart" class="zr0-cls-2"></path>
+<path d="M394.6 558.7A221 221 0 0 1 243.4 558.7L287.9 436.5A91 91 0 0 0 350.1 436.5Z" fill="#0d6efd" ecmeta_series_index="0" ecmeta_data_index="4" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M243.4 558.7A221 221 0 0 1 127.6 461.5L240.2 396.5A91 91 0 0 0 287.9 436.5Z" fill="#6c757d" ecmeta_series_index="0" ecmeta_data_index="5" ecmeta_ssr_type="chart" class="zr0-cls-4"></path>
+<path d="M127.6 461.5A221 221 0 0 1 101.4 312.6L229.4 335.2A91 91 0 0 0 240.2 396.5Z" fill="rgb(0,0,0)" fill-opacity="0.12" stroke="#b8b8b8" stroke-linejoin="round" ecmeta_series_index="0" ecmeta_data_index="6" ecmeta_ssr_type="chart" class="zr0-cls-5"></path>
+<path d="M101.4 312.6A221 221 0 0 1 176.9 181.7L260.5 281.3A91 91 0 0 0 229.4 335.2Z" fill="rgb(0,0,0)" fill-opacity="0.08" stroke="#b8b8b8" stroke-linejoin="round" ecmeta_series_index="0" ecmeta_data_index="7" ecmeta_ssr_type="chart" class="zr0-cls-6"></path>
+<path d="M176.9 181.7A221 221 0 0 1 319 130L319 260A91 91 0 0 0 260.5 281.3Z" fill="rgb(0,0,255)" fill-opacity="0.15" stroke="#7da6ff" stroke-linejoin="round" ecmeta_series_index="0" ecmeta_data_index="8" ecmeta_ssr_type="chart" class="zr0-cls-7"></path>
+<path d="M-5 -5l186.7 0l0 210l-186.7 0Z" transform="translate(643 225)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#b7b9be" stroke-width="0" class="zr0-cls-8"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0Z" transform="translate(644 226)" fill="#f8f8f8" stroke="#b8b8b8" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="round" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="legend" ecmeta_silent="true" class="zr0-cls-8"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:9px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(644 226)" fill="#54555a">Off-white  #f8f8f8</text>
+<path d="M-1 -1l99.9 0l0 16l-99.9 0Z" transform="translate(644 226)" fill="none" pointer-events="visible" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="legend" class="zr0-cls-9"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0Z" transform="translate(644 250)" fill="#ffffff" stroke="#b8b8b8" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="round" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="legend" ecmeta_silent="true" class="zr0-cls-8"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:9px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(644 250)" fill="#54555a">White  #ffffff</text>
+<path d="M-1 -1l79.2 0l0 16l-79.2 0Z" transform="translate(644 250)" fill="none" pointer-events="visible" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="legend" class="zr0-cls-9"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0Z" transform="translate(644 273)" fill="#000000" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="legend" ecmeta_silent="true" class="zr0-cls-8"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:9px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(644 273)" fill="#54555a">Black  #000000</text>
+<path d="M0 0l92.4 0l0 14l-92.4 0Z" transform="translate(644 273)" fill="none" pointer-events="visible" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="legend" class="zr0-cls-9"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0Z" transform="translate(644 295)" fill="#0000ff" ecmeta_series_index="0" ecmeta_data_index="3" ecmeta_ssr_type="legend" ecmeta_silent="true" class="zr0-cls-8"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:9px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(644 295)" fill="#54555a">Primary blue  #0000ff</text>
+<path d="M0 0l115.9 0l0 14l-115.9 0Z" transform="translate(644 295)" fill="none" pointer-events="visible" ecmeta_series_index="0" ecmeta_data_index="3" ecmeta_ssr_type="legend" class="zr0-cls-9"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0Z" transform="translate(644 317)" fill="#0d6efd" ecmeta_series_index="0" ecmeta_data_index="4" ecmeta_ssr_type="legend" ecmeta_silent="true" class="zr0-cls-8"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:9px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(644 317)" fill="#54555a">Bootstrap blue  #0d6efd</text>
+<path d="M0 0l126.1 0l0 14l-126.1 0Z" transform="translate(644 317)" fill="none" pointer-events="visible" ecmeta_series_index="0" ecmeta_data_index="4" ecmeta_ssr_type="legend" class="zr0-cls-9"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0Z" transform="translate(644 339)" fill="#6c757d" ecmeta_series_index="0" ecmeta_data_index="5" ecmeta_ssr_type="legend" ecmeta_silent="true" class="zr0-cls-8"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:9px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(644 339)" fill="#54555a">Medium grey  #6c757d</text>
+<path d="M0 0l121.9 0l0 14l-121.9 0Z" transform="translate(644 339)" fill="none" pointer-events="visible" ecmeta_series_index="0" ecmeta_data_index="5" ecmeta_ssr_type="legend" class="zr0-cls-9"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0Z" transform="translate(644 362)" fill="rgb(0,0,0)" fill-opacity="0.12" stroke="#b8b8b8" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="round" ecmeta_series_index="0" ecmeta_data_index="6" ecmeta_ssr_type="legend" ecmeta_silent="true" class="zr0-cls-8"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:9px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(644 362)" fill="#54555a">Black shadow 12%  rgba(0,0,0,0.12)</text>
+<path d="M-1 -1l176.7 0l0 16l-176.7 0Z" transform="translate(644 362)" fill="none" pointer-events="visible" ecmeta_series_index="0" ecmeta_data_index="6" ecmeta_ssr_type="legend" class="zr0-cls-9"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0Z" transform="translate(644 386)" fill="rgb(0,0,0)" fill-opacity="0.08" stroke="#b8b8b8" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="round" ecmeta_series_index="0" ecmeta_data_index="7" ecmeta_ssr_type="legend" ecmeta_silent="true" class="zr0-cls-8"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:9px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(644 386)" fill="#54555a">Black shadow 8%  rgba(0,0,0,0.08)</text>
+<path d="M-1 -1l171.7 0l0 16l-171.7 0Z" transform="translate(644 386)" fill="none" pointer-events="visible" ecmeta_series_index="0" ecmeta_data_index="7" ecmeta_ssr_type="legend" class="zr0-cls-9"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0Z" transform="translate(644 410)" fill="rgb(0,0,255)" fill-opacity="0.15" stroke="#7da6ff" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="round" ecmeta_series_index="0" ecmeta_data_index="8" ecmeta_ssr_type="legend" ecmeta_silent="true" class="zr0-cls-8"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:9px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(644 410)" fill="#54555a">Blue focus 15%  rgba(0,0,255,0.15)</text>
+<path d="M-1 -1l173.3 0l0 16l-173.3 0Z" transform="translate(644 410)" fill="none" pointer-events="visible" ecmeta_series_index="0" ecmeta_data_index="8" ecmeta_ssr_type="legend" class="zr0-cls-9"></path>
+<path d="M-66.6 -5l133.1 0l0 22l-133.1 0Z" transform="translate(550 20)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr0-cls-8"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;font-weight:600;" xml:space="preserve" y="6" transform="translate(550 20)" fill="#3c3c41">Website Colour Palette</text>
+<style ><![CDATA[
+.zr0-cls-0:hover {
+cursor:pointer;
+fill:rgba(255,255,255,1);
+}
+.zr0-cls-1:hover {
+cursor:pointer;
+fill:rgba(0,0,0,1);
+}
+.zr0-cls-2:hover {
+cursor:pointer;
+fill:rgba(0,0,255,1);
+}
+.zr0-cls-3:hover {
+cursor:pointer;
+fill:rgba(14,121,255,1);
+}
+.zr0-cls-4:hover {
+cursor:pointer;
+fill:rgba(118,128,137,1);
+}
+.zr0-cls-5:hover {
+cursor:pointer;
+fill:rgba(0,0,0,0.12);
+}
+.zr0-cls-6:hover {
+cursor:pointer;
+fill:rgba(0,0,0,0.08);
+}
+.zr0-cls-7:hover {
+cursor:pointer;
+fill:rgba(0,0,255,0.15);
+}
+.zr0-cls-8:hover {
+pointer-events:none;
+}
+.zr0-cls-9:hover {
+cursor:pointer;
+fill:rgba(0,0,0,0);
+}
+
+]]>
+
+</style>
+</svg>

@@ -21,21 +21,20 @@ p {
 
 /* NAVBAR */
 .navbar {
-  background-color: gray;
+  background-color: lightgrey;
 }
 
 .name-banner {
   padding-top: 2px;
   padding-bottom: 2px;
-  background-color: lightgrey;
 }
 
 .site-name {
-  color: rgb(193, 8, 8);
+  color: rgb(10, 10, 232);
   font-family: Georgia, serif;
-  font-size: clamp (2.5rem, 6vw, 4rem);
-  font-weight: 300;
-  text-align:left;
+  font-size: clamp(3rem, 6.5vw, 5rem);
+  font-weight: 200;
+  text-align: left;
   margin-left: 0;
   margin-bottom: 2px;
 }
@@ -68,15 +67,15 @@ p {
 
 /* HERO */
 .hero-section {
-  background-color: #fff8e7;
-  min-height: calc(100vh - 80px);
-  margin-top: 2px;
-  margin-left: 10px;
-}
+    min-height: auto;
+    margin: 0;
+    padding: 30px 10px 20px;
+  }
 
 .hero-title {
   font-size: clamp(2rem, 5vw, 3.2rem);
   line-height: 1.2;
+  font-family: serif;
 }
 
 .Des {
@@ -96,7 +95,7 @@ p {
 .skills-section,
 .certification-section,
 .contact-section {
-  scroll-margin-top: 90px;
+scroll-margin-top: 30px;
 }
 
 .section-title {
@@ -113,6 +112,7 @@ p {
   border-radius: 0.75rem;
   background-color: #fff;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
+  margin-top: 2px;
 }
 
 .skill-card:hover {

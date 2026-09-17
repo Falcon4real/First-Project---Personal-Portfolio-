@@ -247,6 +247,15 @@ Website validation
 1. During checking my website on W3C validator, I received some few errors with 'Trailing Slash'. I manually went through each of the them and eliminated all of them.
 2. Fixed the issue of fixed-width layouts and permanent horizontal positioning – replaced it with Bootstrap to create a responsive grid that adapts to all screen widths.
 
+## Deployment
+The website was developed using Visual Studio Code and uploaded to the project's remote repository on GitHub.
+
+The following Git commands were used throughout the development process to manage and upload changes:
+
+git add . - Adds all modified and newly created files to the staging area in preparation for a commit.
+git commit -m "commit message" - Saves the staged changes to the local repository with a short message describing the work completed.
+git push - Uploads the committed changes from the local repository to the remote repository on GitHub.
+
 ## Credits:
 - In the development of this project, I referenced back to Love Running and Walk-Through Projects for guidance and inspiration. Any re-used sections from the projects are credited in the source code through the comments.
 

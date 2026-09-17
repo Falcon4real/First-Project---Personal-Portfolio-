@@ -226,6 +226,12 @@ Different device sizes were tested using Google DevTools.
    <details><summary>click to view</summary>
      <img src="Image(s)/Responsiveness_iphone 16 pro max.png"></details>
 
+### Code Validation
+W3C Markup Validation Services
+Website validation
+
+
+
 ### Manual Testing User Stories
 
 | User Story | Test | Outcome | Screenshot |

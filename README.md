@@ -247,6 +247,7 @@ W3C Markup Validation Services: Website validation
 2. Fixed the issue of fixed-width layouts and permanent horizontal positioning – replaced it with Bootstrap to create a responsive grid that adapts to all screen widths.
 
 ## Deployment
+### Version control
 The website was developed using Visual Studio Code and uploaded to the project's remote repository on GitHub.
 
 The following Git commands were used throughout the development process to manage and upload changes:

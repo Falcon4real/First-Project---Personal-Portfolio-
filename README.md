@@ -253,7 +253,9 @@ The website was developed using Visual Studio Code and uploaded to the project's
 The following Git commands were used throughout the development process to manage and upload changes:
 
 git add . - Adds all modified and newly created files to the staging area in preparation for a commit.
+
 git commit -m "commit message" - Saves the staged changes to the local repository with a short message describing the work completed.
+
 git push - Uploads the committed changes from the local repository to the remote repository on GitHub.
 
 ## Credits:

@@ -269,7 +269,7 @@ The following steps were completed to deploy the project:
 This is the live link to the webpage: https://falcon4real.github.io/First-Project---Personal-Portfolio-/
 ### Locally Cloning the Repository Code 
 To locally clone the repository code, follow these steps:
-- Open the GitHub repository you want to copy.
+- Open the GitHub repository.
 - Select the Code button.
 - Choose HTTPS as the cloning method.
 - Copy the repository URL provided.

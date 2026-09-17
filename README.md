@@ -227,8 +227,7 @@ Different device sizes were tested using Google DevTools.
      <img src="Image(s)/Responsiveness_iphone 16 pro max.png"></details>
 
 ### Code Validation
-W3C Markup Validation Services
-Website validation
+W3C Markup Validation Services: Website validation
 <img width="1460" height="587" alt="Image" src="https://github.com/user-attachments/assets/d2c86962-68b3-4199-a47a-ca9431424271" />
 
 

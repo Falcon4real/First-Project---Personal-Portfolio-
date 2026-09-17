@@ -1,5 +1,4 @@
 # First-portfolio-project
-# First-portfolio-project
 About:
 
 This project is my first project, which is a personal portfolio project. It is a responsive website which highlights my personal ambition as a learner of web developer, my previous skills acquired, and a contact for collaboratopn.
@@ -60,10 +59,8 @@ This website serves as:
 The wireframes for this website were created using Balsamiq to develop a clear structural understnading. I established the mobile-first approach to ensure the website is responsive to all device formats and optimised.
 
 #### Homepage/Introduction:
-<details>
-<summary>Click to display</summary>
-<img src="[raw.githubusercontent.com](https://raw.githubusercontent.com/Falcon4real/First-Project---Personal-Portfolio-/main/)<actual-folder-path>/49A13DB6-5D0D-4358-B0B3-CDD8FC64B7D0.png">
-</details>
+<details><summary>click to display</summary>
+<img src="Image(s)/Landing_page.png"></details>
 
 ### Typography
 When choosing the fonts for my website, I took into account readability, visual appeal, and how well they reflect the brand. As a result, I selected the following typefaces:

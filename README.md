@@ -257,6 +257,17 @@ git commit -m "commit message" - Saves the staged changes to the local repositor
 
 git push - Uploads the committed changes from the local repository to the remote repository on GitHub.
 
+### Deployment to GitHub pages
+The website was published using GitHub Pages.
+The following steps were completed to deploy the project:
+
+1. Open the project's repository on GitHub and select Settings.
+2. Choose Pages from the menu on the left.
+3. Under Build and deployment, select Deploy from a branch as the source.
+4. Choose the main branch and the appropriate folder, normally /(root).
+5. Select Save to begin the deployment process.
+6. Once deployment is complete, GitHub displays the URL for the live website in the Pages section.
+
 ## Credits:
 - In the development of this project, I referenced back to Love Running and Walk-Through Projects for guidance and inspiration. Any re-used sections from the projects are credited in the source code through the comments.
 

@@ -266,7 +266,7 @@ The following steps were completed to deploy the project:
 5. Select Save to begin the deployment process.
 6. Once deployment is complete, GitHub displays the URL for the live website in the Pages section.
 
-This is the live link t the webpage: https://falcon4real.github.io/First-Project---Personal-Portfolio-/
+This is the live link to the webpage: https://falcon4real.github.io/First-Project---Personal-Portfolio-/
 
 ## Credits:
 - In the development of this project, I referenced back to Love Running and Walk-Through Projects for guidance and inspiration. Any re-used sections from the projects are credited in the source code through the comments.

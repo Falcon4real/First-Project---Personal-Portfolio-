@@ -289,7 +289,7 @@ To locally clone the repository code, follow these steps:
 - Home Page
   - Home page hero image by myself [My Gallery](images/AAA45F50-5559-44B8-B2F2-8281FE1DBEB2_1_105_c.jpeg)
 
-- Acknowledgement
+### Acknowledgement
   - I would like to thank my tutor, Kevin, for his guidance and explanations throughout this project.
 
 
